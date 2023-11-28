@@ -1,0 +1,10 @@
+{
+  "out_size": 1,
+  "channels": 128,
+  "window_size": 500,
+  "stride": 500,
+  "layers": 1,
+  "embed_size": 8,
+  "threshold": 0.5,
+  "vocabulary_size": 257
+}
